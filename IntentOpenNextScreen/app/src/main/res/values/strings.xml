@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IntentOpenNextScreen</string>
+    <string name="enter_text_here">Enter Text Here...</string>
+
+    <string name="submit">SUBMIT</string>
+    <string name="textview">TextView</string>
+</resources>
